@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-visualizer",
+  "name": "@koddsson/rollup-plugin-visualizer",
   "version": "5.9.2",
   "main": "./dist/plugin/index.js",
   "author": "Denis Bardadym <bardadymchik@gmail.com>",
